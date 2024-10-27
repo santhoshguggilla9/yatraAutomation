@@ -1,0 +1,150 @@
+2024-10-26 01:31:08 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 01:31:16 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 01:31:16 [main] ERROR LogUtil - Error reading Excel data: src\test\resources\testdata.xlsx (The system cannot find the file specified)
+2024-10-26 01:31:16 [main] ERROR LogUtil - Error reading Excel data: src\test\resources\testdata.xlsx (The system cannot find the file specified)
+2024-10-26 01:31:29 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 01:31:29 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 01:39:31 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 01:39:39 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 01:39:41 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 01:39:42 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 01:54:18 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 01:54:24 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 01:54:38 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 01:54:38 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 01:55:43 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 01:55:45 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 01:59:42 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 01:59:57 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 02:02:09 [main] INFO  LogUtil - Page title validated
+2024-10-26 02:02:24 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 02:02:24 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 11:30:27 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 11:30:40 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 11:32:47 [main] INFO  LogUtil - Page title validated
+2024-10-26 11:32:47 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 11:32:54 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 11:32:56 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 11:33:59 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 11:34:07 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 11:36:46 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 11:36:54 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 11:37:30 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 11:37:32 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 11:41:37 [main] INFO  BaseTest - EdgeDriver initialized.
+2024-10-26 11:41:43 [main] INFO  BaseTest - Extent Reports initialized
+2024-10-26 11:48:11 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 11:48:17 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 11:48:20 [main] INFO  LogUtil - Page title validated
+2024-10-26 11:48:20 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 11:48:21 [main] INFO  BaseTest - Browser closed successfully.
+2024-10-26 11:48:21 [main] INFO  BaseTest - Extent report flushed and saved.
+2024-10-26 11:56:05 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 11:56:09 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 11:56:12 [main] INFO  LogUtil - Page title validated
+2024-10-26 11:56:12 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 11:56:12 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 11:56:13 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 12:08:22 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 12:08:28 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 12:08:30 [main] INFO  LogUtil - Page title validated
+2024-10-26 12:08:31 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 12:08:31 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 12:08:32 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 12:10:50 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 12:10:53 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 12:10:56 [main] INFO  LogUtil - Page title validated
+2024-10-26 12:10:56 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 12:10:57 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 12:10:57 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 12:12:40 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 12:12:42 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 12:13:22 [main] INFO  LogUtil - Page title validated
+2024-10-26 12:13:28 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 12:13:57 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 12:13:58 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 12:20:46 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 12:20:51 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 12:21:36 [main] INFO  LogUtil - Page title validated
+2024-10-26 12:21:45 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 12:22:15 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 12:22:16 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 12:28:43 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 12:28:49 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 12:29:58 [main] INFO  LogUtil - Page title validated
+2024-10-26 12:30:04 [main] INFO  LogUtil - Banner logo validated
+2024-10-26 12:30:21 [main] INFO  LogUtil - Screenshot saved: src/main/resources/screenshots/screenShot_20241026_123010.png
+2024-10-26 12:30:29 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 12:30:31 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:01:28 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:01:33 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:01:44 [main] INFO  LogUtil - Page title validation Failed! Expected:  Domestic Flights Offers, got :Domestic Flights Offers | Deals on Domestic Flight Booking | Yatra.com
+2024-10-26 13:01:44 [main] INFO  LogUtil - Banner logo validated: Great Offers & Amazing Deals
+2024-10-26 13:01:45 [main] INFO  LogUtil - Screenshot saved: src/main/resources/screenshots/screenShot_20241026_130145.png
+2024-10-26 13:01:47 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:01:48 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:32:23 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:32:25 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:32:29 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:32:30 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:37:43 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:38:01 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:39:23 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:39:24 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:41:34 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:41:39 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:41:44 [main] INFO  LogUtil - Page title validation Failed! Expected:  Domestic Flights Offers, got :Domestic Flights Offers | Deals on Domestic Flight Booking | Yatra.com
+2024-10-26 13:41:44 [main] INFO  LogUtil - Banner logo validated: Great Offers & Amazing Deals
+2024-10-26 13:41:45 [main] INFO  LogUtil - Screenshot saved: src/main/resources/screenshots/screenShot_20241026_134144.png
+2024-10-26 13:41:55 [main] INFO  LogUtil - clicked On Holidays Package
+2024-10-26 13:41:56 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:42:00 [main] INFO  LogUtil - Details: Package 1: Marhaba Dubai - Land Only - Price: Rs.24,990
+2024-10-26 13:42:00 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:42:00 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:42:01 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:42:11 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:42:11 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:42:12 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:42:14 [main] INFO  LogUtil - Details: Package 4: Serene Bali - Air Inclusive - Price: Rs.63,990
+2024-10-26 13:42:15 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:42:15 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:42:19 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:42:20 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:43:30 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:43:32 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:43:38 [main] INFO  LogUtil - Page title validation Failed! Expected:  Domestic Flights Offers, got :Domestic Flights Offers | Deals on Domestic Flight Booking | Yatra.com
+2024-10-26 13:43:38 [main] INFO  LogUtil - Banner logo validated: Great Offers & Amazing Deals
+2024-10-26 13:43:38 [main] INFO  LogUtil - Screenshot saved: src/main/resources/screenshots/screenShot_20241026_134338.png
+2024-10-26 13:43:39 [main] INFO  LogUtil - clicked On Holidays Package
+2024-10-26 13:43:40 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:43:44 [main] INFO  LogUtil - Details: Package 1: Marhaba Dubai - Land Only - Price: Rs.24,990
+2024-10-26 13:43:44 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:43:45 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:43:45 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:44:06 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:44:06 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:44:06 [main] INFO  LogUtil - Click on the package to open its details in a new window
+2024-10-26 13:44:10 [main] INFO  LogUtil - Details: Package 4: Serene Bali - Air Inclusive - Price: Rs.63,990
+2024-10-26 13:44:10 [main] INFO  LogUtil - Close the new window
+2024-10-26 13:44:10 [main] INFO  LogUtil - Switch back to the original window
+2024-10-26 13:44:16 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:44:17 [main] INFO  LogUtil - Extent report flushed and saved.
+2024-10-26 13:58:27 [main] INFO  LogUtil - EdgeDriver initialized.
+2024-10-26 13:58:37 [main] INFO  LogUtil - Extent Reports initialized
+2024-10-26 13:58:40 [main] INFO  LogUtil - Page title validation failed! Expected: Domestic Flights Offers, got: Domestic Flights Offers | Deals on Domestic Flight Booking | Yatra.com
+2024-10-26 13:58:41 [main] INFO  LogUtil - Banner logo validated: Great Offers & Amazing Deals
+2024-10-26 13:58:42 [main] INFO  LogUtil - Screenshot saved: src/main/resources/screenshots/screenShot_20241026_135841.png
+2024-10-26 13:58:42 [main] INFO  LogUtil - Clicked on Holidays Package tab
+2024-10-26 13:58:44 [main] INFO  LogUtil - Clicked on the package to open its details in a new window
+2024-10-26 13:58:48 [main] INFO  LogUtil - Details: Package 1: Marhaba Dubai - Land Only - Price: Rs.24,990
+2024-10-26 13:58:48 [main] INFO  LogUtil - Closed the new window
+2024-10-26 13:58:48 [main] INFO  LogUtil - Switched back to the original window
+2024-10-26 13:58:49 [main] INFO  LogUtil - Clicked on the package to open its details in a new window
+2024-10-26 13:59:04 [main] INFO  LogUtil - Closed the new window
+2024-10-26 13:59:05 [main] INFO  LogUtil - Switched back to the original window
+2024-10-26 13:59:05 [main] INFO  LogUtil - Clicked on the package to open its details in a new window
+2024-10-26 13:59:08 [main] INFO  LogUtil - Details: Package 4: Serene Bali - Air Inclusive - Price: Rs.63,990
+2024-10-26 13:59:08 [main] INFO  LogUtil - Closed the new window
+2024-10-26 13:59:09 [main] INFO  LogUtil - Switched back to the original window
+2024-10-26 13:59:10 [main] INFO  LogUtil - Browser closed successfully.
+2024-10-26 13:59:11 [main] INFO  LogUtil - Extent report flushed and saved.
